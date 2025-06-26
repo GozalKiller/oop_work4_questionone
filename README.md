@@ -1,4 +1,8 @@
-
+חברי הקבוצה:
+אלמוג גוזלקר
+אוריאן בקר
+אנטוני גולוביצקי
+דניאל דוידוביץ'
 
 ![image](https://github.com/user-attachments/assets/9ee0bb3e-a5e4-40ed-abd3-41cd09b7fbd5)
 
